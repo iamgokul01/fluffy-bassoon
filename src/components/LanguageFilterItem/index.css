@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.language-list-container {
+  margin: 5px;
+  align-self: center;
+  width: max-content;
+}
+
+.language-select-btn {
+  background-color: transparent;
+  border: none;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.language-clicked-btn {
+  background-color: transparent;
+  border: 1px solid #0f172a;
+  border-radius: 15px;
+  font-family: Roboto;
+  font-weight: bold;
+}

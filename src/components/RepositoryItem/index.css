@@ -1,0 +1,6 @@
+/* Write your CSS here */
+
+.lang-card-container {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.app-title {
+  font-family: Lobster;
+  font-size: 35px;
+}
+
+.main-app-container {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.language-selection-container {
+  list-style: none;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+
+  width: 50%;
+  justify-content: center;
+}
+
+.language-list-container {
+  width: 80%;
+}
